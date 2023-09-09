@@ -15,7 +15,7 @@ For each of the extracted texts from the article, perform textual analysis and c
 I used Jupiter Notebook to perform Python coding to achieve the targeted result. This project is divided into 3 parts: 
 
 1. Function to extract the article title and text from a URLs given in Input.xlxs file and extracting each articles into txt
-2. Function to load positive and negative dictionaries from files and Function to perform sentiment analysis and calculate scores
-3. Functions to Avg_Sentence_Length,	Percentage_Complex_Words,	Fog_Index,	Avg_Words_Per_Sentence,	Complex_Word_Count,	Word_Count,	Syllable_Count_Per_Word,	Personal_Pronoun_Count,	Avg_Word_Length
+2. Sentiment Analysis: Function to load positive and negative dictionaries from files and Function to perform sentiment analysis and calculate scores
+3. Text Analysis: Functions to Calculate Avg_Sentence_Length,	Percentage_Complex_Words,	Fog_Index,	Avg_Words_Per_Sentence,	Complex_Word_Count,	Word_Count,	Syllable_Count_Per_Word,	Personal_Pronoun_Count,	Avg_Word_Length
 
 Lastly to read file into the desired manner of output in excel file.
