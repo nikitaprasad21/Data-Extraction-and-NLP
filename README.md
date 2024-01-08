@@ -1,7 +1,7 @@
 # Data-Extraction-and-NLP Analysis
 
 ### Introduction
-The objective of this roject is to extract textual data articles from the given URL and perform text analysis to compute variables such as Avg_Sentence_Length,	Percentage_Complex_Words,	Fog_Index,	Avg_Words_Per_Sentence,	Complex_Word_Count,	Word_Count,	Syllable_Count_Per_Word,	Personal_Pronoun_Count,	Avg_Word_Length. 
+The objective of this project is to extract textual data articles from the given URL and perform text analysis to compute variables such as Avg_Sentence_Length,	Percentage_Complex_Words,	Fog_Index,	Avg_Words_Per_Sentence,	Complex_Word_Count,	Word_Count,	Syllable_Count_Per_Word,	Personal_Pronoun_Count,	Avg_Word_Length. 
 
 ### Work Process
 #### 1. Data Extraction
